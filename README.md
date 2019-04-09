@@ -14,5 +14,8 @@ jieba、wordcloud、request等模块
 ```
 将本项目克隆到本地即可运行。
 
+效果：
+![](/output.png)
+
   [1]: https://github.com/CriseLYJ/awesome-python-login-model/blob/master/webWeixin/webWeixin.py
   [2]: https://www.zhihu.com/question/28975391/answer/100796070
