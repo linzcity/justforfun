@@ -323,7 +323,7 @@ def main():
         elif type == 4: #全部
             1 == 1
     
-    doc = open('output.txt','w+',encoding='utf-8')
+    doc = open('output.txt','w+',encoding='utf-8') #当前目录下
     
     # print(data_dict,file=doc)
     
@@ -340,7 +340,7 @@ def main():
 
     doc.close()
 
-    os.system('text.py')
+    os.system('text.py') # 运行text.py生成词云
 if __name__ == '__main__':
     print('开始')
     main()
