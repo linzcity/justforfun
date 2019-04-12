@@ -19,6 +19,8 @@ jieba、wordcloud、request等模块
 
 ![](/output1.jpg)
 
-最关键的词语是：人生、自己、生活，大部分朋友的签名都是关乎自己的生活:)
+最关键的词语是：人生、自己、生活，大部分朋友的签名都是关乎自己的生活，努力活着:)
+
+
   [1]: https://github.com/CriseLYJ/awesome-python-login-model/blob/master/webWeixin/webWeixin.py
   [2]: https://www.zhihu.com/question/28975391/answer/100796070
